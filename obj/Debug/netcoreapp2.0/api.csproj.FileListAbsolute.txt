@@ -1,0 +1,22 @@
+C:\Users\MY LAPTOP\Desktop\arnie\api\obj\Debug\netcoreapp2.0\api.csprojResolveAssemblyReference.cache
+C:\Users\MY LAPTOP\Desktop\arnie\api\obj\Debug\netcoreapp2.0\api.csproj.CoreCompileInputs.cache
+C:\Users\MY LAPTOP\Desktop\arnie\api\obj\Debug\netcoreapp2.0\api.AssemblyInfoInputs.cache
+C:\Users\MY LAPTOP\Desktop\arnie\api\obj\Debug\netcoreapp2.0\api.AssemblyInfo.cs
+C:\Users\MY LAPTOP\Desktop\arnie\api\bin\Debug\netcoreapp2.0\api.deps.json
+C:\Users\MY LAPTOP\Desktop\arnie\api\bin\Debug\netcoreapp2.0\api.runtimeconfig.json
+C:\Users\MY LAPTOP\Desktop\arnie\api\bin\Debug\netcoreapp2.0\api.runtimeconfig.dev.json
+C:\Users\MY LAPTOP\Desktop\arnie\api\bin\Debug\netcoreapp2.0\api.dll
+C:\Users\MY LAPTOP\Desktop\arnie\api\bin\Debug\netcoreapp2.0\api.pdb
+C:\Users\MY LAPTOP\Desktop\arnie\api\obj\Debug\netcoreapp2.0\api.dll
+C:\Users\MY LAPTOP\Desktop\arnie\api\obj\Debug\netcoreapp2.0\api.pdb
+C:\Users\Kyarz\Documents\BooksCoreAPI-master\bin\Debug\netcoreapp2.0\api.deps.json
+C:\Users\Kyarz\Documents\BooksCoreAPI-master\bin\Debug\netcoreapp2.0\api.runtimeconfig.json
+C:\Users\Kyarz\Documents\BooksCoreAPI-master\bin\Debug\netcoreapp2.0\api.runtimeconfig.dev.json
+C:\Users\Kyarz\Documents\BooksCoreAPI-master\bin\Debug\netcoreapp2.0\api.dll
+C:\Users\Kyarz\Documents\BooksCoreAPI-master\bin\Debug\netcoreapp2.0\api.pdb
+C:\Users\Kyarz\Documents\BooksCoreAPI-master\obj\Debug\netcoreapp2.0\api.csprojAssemblyReference.cache
+C:\Users\Kyarz\Documents\BooksCoreAPI-master\obj\Debug\netcoreapp2.0\api.csproj.CoreCompileInputs.cache
+C:\Users\Kyarz\Documents\BooksCoreAPI-master\obj\Debug\netcoreapp2.0\api.AssemblyInfoInputs.cache
+C:\Users\Kyarz\Documents\BooksCoreAPI-master\obj\Debug\netcoreapp2.0\api.AssemblyInfo.cs
+C:\Users\Kyarz\Documents\BooksCoreAPI-master\obj\Debug\netcoreapp2.0\api.dll
+C:\Users\Kyarz\Documents\BooksCoreAPI-master\obj\Debug\netcoreapp2.0\api.pdb
